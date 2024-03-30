@@ -1,0 +1,16 @@
+http://localhost:8080/v1/school/sync-data
+
+http://localhost:8080/v1/school/search-by-phone?phonePrefix=860
+http://localhost:8080/v1/school/search-by-phone?phonePrefix=860&ordering=DESC
+
+http://localhost:8080/v1/school/all
+http://localhost:8080/v1/school/all?ordering=DESC
+
+
+http://localhost:8080/v1/school/search-by-organization-type?organizationType=State Agencies
+
+http://localhost:8080/v1/school/search-by-town?town=Collinsville
+
+http://localhost:8080/v1/school/school-organization-mapping?schoolName=Park City Magnet School
+
+http://localhost:8080/v1/school/search-grade-8-by-organization-type?organizationType=State Agencies
